@@ -3,10 +3,10 @@ import 'package:practice_app/ui/appCollections.dart';
 
 void main() {
   // FIRST METHOD
-  // runApp(const MaterialApp(
-  //   home: ScaffoldExample(),
-  // ));
+  runApp(const MaterialApp(
+    home: Wisdom(),
+  ));
 
   // SECOND METHOD
-  runApp(const myBiz());
+//   runApp(const myBiz());
 }
